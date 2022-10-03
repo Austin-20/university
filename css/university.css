@@ -40,7 +40,7 @@ nav img{
     content: '';
     width: 0%;
     height: 2px;
-    background: aqua;
+    background: #E85C2A;
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -77,8 +77,8 @@ nav img{
     cursor: pointer;
 }
 .hero-btn:hover{
-    border: 1px solid aqua;
-    background: aqua;
+    border: 1px solid #E85C2A;
+    background: #E85C2A;
     transition: 1s;
 }
 nav .fa-solid{
@@ -96,7 +96,7 @@ nav .fa-solid{
     }
     .nav-links{
         position: fixed;
-        background: aqua;
+        background: #E85C2A;
         height: 100vh;
         width: 200px;
         top: 0;
@@ -192,7 +192,7 @@ h3{
     transition: 0.5s;
 }
 .layer:hover{
-    background: rgb(0, 225, 225, 0.6);
+    background: #E85C2A;
 }
 .layer h3{
     width: 100%;
@@ -268,7 +268,7 @@ h3{
     text-align: left;
 }
 .testimonial-col .fa-solid{
-    color: aqua;
+    color: #E85C2A;
 }
 
 @media(max-width: 700px){
@@ -313,13 +313,13 @@ h3{
     font-weight: 600;
 }
 .icons .fa-brands{
-    color: aqua;
+    color: #E85C2A;
     margin: 0 13px;
     cursor: pointer;
     padding: 18px 0;
 }
 .fa-heart{
-    color: aqua;
+    color: #E85C2A;
 }
 
 /* about us page */
@@ -355,9 +355,9 @@ h3{
     padding: 15px 0 25px;
 }
 .aqua-btn{
-    border: 1px solid aqua;
+    border: 1px solid #E85C2A;
     background: transparent;
-    color: aqua;
+    color: #E85C2A;
 }
 .aqua-btn:hover{
     color: #000;
@@ -388,7 +388,7 @@ h3{
     flex-basis: 32%;
 }
 .blog-right h3{
-    background: aqua;
+    background: #E85C2A;
     color: #fff;
     padding: 7px 0;
     font-size: 16px;
@@ -422,9 +422,9 @@ h3{
 }
 .comment-form button{
     margin: 10px 0;
-    border: 1px solid aqua;
+    border: 1px solid #E85C2A;
     background: transparent;
-    color: aqua;
+    color: #E85C2A;
 }
 .comment-form button:hover{
     color: #000;
@@ -460,7 +460,7 @@ h3{
 }
 .contact-col div .fa-solid{
     font-size: 28px;
-    color: aqua;
+    color: #E85C2A;
     margin: 10px;
     margin-right: 30px;
 }
